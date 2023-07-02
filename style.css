@@ -118,7 +118,7 @@ span{
 /* panel */
 .panel{
     height: 40px;
-    background-color: 222f3d;
+    background-color: #222f3d;
     display: flex;
     color: white;
     align-items: center;
